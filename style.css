@@ -62,3 +62,7 @@ p{
 .steps li{
     margin: 20px;
 }
+
+.notes ol{
+    width: 950px;
+}
